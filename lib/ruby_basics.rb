@@ -9,8 +9,8 @@ def assign_variable(name)
 
 end
 
-def argue(phrase = "I'm right and you are wrong!")
-  puts#{phrase}
+def argue(phrase)
+return phrase
 end
 
 def greeting(name, greeting)
